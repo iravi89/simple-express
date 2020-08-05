@@ -1,7 +1,7 @@
-# Simple Node
+# Simple Express
 ## Overview
 This is a very simple, bare-bones NodeJS project created for you to use with Docker. In this excercise we we are creating reverse proxy.
-A reverse proxy proxy is used to route traffic from one endpoint to multiple endpoints
+A reverse proxy is used to route traffic from one endpoint to multiple endpoints
 
 ## Reverse Proxy
 
